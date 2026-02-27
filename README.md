@@ -55,6 +55,3 @@ node index.js brief_v1.pdf brief_v2.pdf resultaten
 - **Afmetingen**: Visuele vergelijking werkt het best als de pagina-afmetingen gelijk zijn.
 - **Token Besparing**: Om kosten te besparen stuurt de tool alleen de eerste 3 pagina's met visuele verschillen naar Claude voor gedetailleerde inspectie.
 - **Threshold**: De visuele gevoeligheid staat momenteel op een drempelwaarde van 0.1 om ruis te voorkomen.
-
----
-*Ontwikkeld voor Socrates - Voor precisie in documentverantwoording.*
