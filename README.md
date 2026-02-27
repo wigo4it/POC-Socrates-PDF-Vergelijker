@@ -22,7 +22,7 @@ Binnen de Socrates-context helpt deze tool bij het valideren van document-engine
 3.  Configureer je `.env` bestand met je API-sleutel:
     ```env
     ANTHROPIC_API_KEY=jouw_api_sleutel_hier
-    ANTHROPIC_MODEL=claude-3-5-sonnet-latest
+    ANTHROPIC_MODEL=claude-haiku-4-5-20251001
     ```
 
 ## 📖 Gebruik
