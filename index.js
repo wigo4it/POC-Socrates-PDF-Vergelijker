@@ -174,7 +174,7 @@ async function interpretWithClaude(totalDiffPixels, pageResults, textDiff) {
  */
 async function comparePDFs(pdfPath1, pdfPath2, outputDir = 'diff_output') {
     console.log('=======================================');
-    console.log('         SOCRATES PDF LENS');
+    console.log('         SOCRATES PDF Vergelijking');
     console.log('=======================================');
 
     // 1. Process PDFs
